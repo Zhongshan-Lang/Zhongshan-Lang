@@ -1,12 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm Wailam Wong.
+I'm Wailam Wong, aka Zhongshan-Lang.
 
-Digital Media Technology student interested in interactive media, 3D visualization and creative technology.
+Digital Media Technology student.  
+Interested in interactive media, 3D visualization and creative technology.
 
-## Skills
+## Tools & Mediums
+- Familiar with:  
+Unity  | Unreal Engine | Blender | Maya | Figma | Adobe software suite | Marvelous Designer | ... 
+- Still learning:  
+Programming  |Web Development | Creative Coding | AI-assisted Development | ...  
+- Have some experience using:  
+QGIS | React | MapLibre | ...  
 
-Unity · Blender · Unreal Engine · Web Development
+## Other Things I Enjoy
+Music composition | Animation | Piano | ...
+
+## Contact
+Email: Wailam_Wong@outlook.com
+Language: English | Chinese(Mandarin, Cantonese, Hakkanese)
+
 
 
 <!--
