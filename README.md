@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Wailam Wong.
+
+Digital Media Technology student interested in interactive media, 3D visualization and creative technology.
+
+## Skills
+
+Unity · Blender · Unreal Engine · Web Development
+
+
 <!--
 **Zhongshan-Lang/Zhongshan-Lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
