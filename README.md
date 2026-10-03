@@ -17,7 +17,7 @@ QGIS | React | MapLibre | ...
 Music composition | Animation | Piano | ...
 
 ## Contact
-Email: Wailam_Wong@outlook.com  
+Email: wailam_wong@outlook.com  
 Language: English | Chinese(Mandarin, Cantonese, Hakkanese)
 
 
